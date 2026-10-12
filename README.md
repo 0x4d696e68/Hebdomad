@@ -7,8 +7,8 @@ Nokia N900 (Maemo 5, OpenGL ES 2.0) and the PS Vita (SceGxm, 60 FPS).
 
 | Nokia N900 | PS Vita |
 | :---: | :---: |
-| ![N900](screenshots/hebdomad_n900_2.png) | ![PS Vita](screenshots/hebdomad_vita_1.png) |
-| ![N900](screenshots/hebdomad_n900_3.png) | ![PS Vita](screenshots/hebdomad_vita_2.png) |
+| ![N900](screenshots/hebdomad_n900_2.png) | ![PS Vita](screenshots/vita_2026-10-13-013607.jpg) |
+| ![N900](screenshots/hebdomad_n900_3.png) | ![PS Vita](screenshots/vita_2026-10-13-013645.jpg) |
 
 > **Note:** You'll need the data from your own copy of the original game (`res.spk`).
 > It is not included.
