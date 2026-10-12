@@ -3,7 +3,7 @@
 **7 Days Salvation on the Nokia N900 and PS Vita.**
 
 An unofficial engine, rewritten with SDL3, to play *7 Days Salvation* (Symbian, 2009) on the
-Nokia N900 (Maemo 5, OpenGL ES 2.0) and the PS Vita (SceGxm, 60 FPS).
+Nokia N900 (Maemo 5, OpenGL ES 2.0) and the PS Vita (SceGxm).
 
 | Nokia N900 | PS Vita |
 | :---: | :---: |
@@ -66,7 +66,7 @@ way associated with or endorsed by the original developer or publisher.
 **7 Days Salvation trên Nokia N900 và PS Vita.**
 
 Engine không chính thức, viết lại bằng SDL3, để chơi *7 Days Salvation* (Symbian, 2009) trên
-Nokia N900 (Maemo 5, OpenGL ES 2.0) và PS Vita (SceGxm, 60 FPS).
+Nokia N900 (Maemo 5, OpenGL ES 2.0) và PS Vita (SceGxm).
 
 > **Lưu ý:** Cần dữ liệu từ bản game gốc của bạn (`res.spk`). Repo không kèm dữ liệu game.
 
